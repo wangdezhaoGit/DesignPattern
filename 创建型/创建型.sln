@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例", "单例\单例.csproj", "{6077C68C-E4B5-4CF8-B634-EF130BC163C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂模式和抽象工厂模式", "工厂模式和抽象工厂模式\工厂模式和抽象工厂模式.csproj", "{7917CFBA-DDC6-458C-A258-79461CCD8137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "建造者模式", "建造者模式\建造者模式.csproj", "{37A0883E-52ED-4014-81B2-6DBA077B3BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "原型模式", "原型模式\原型模式.csproj", "{FE5F57F2-8B21-4FCD-A9D2-6739DAC1DA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6077C68C-E4B5-4CF8-B634-EF130BC163C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6077C68C-E4B5-4CF8-B634-EF130BC163C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6077C68C-E4B5-4CF8-B634-EF130BC163C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6077C68C-E4B5-4CF8-B634-EF130BC163C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7917CFBA-DDC6-458C-A258-79461CCD8137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7917CFBA-DDC6-458C-A258-79461CCD8137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7917CFBA-DDC6-458C-A258-79461CCD8137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7917CFBA-DDC6-458C-A258-79461CCD8137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A0883E-52ED-4014-81B2-6DBA077B3BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A0883E-52ED-4014-81B2-6DBA077B3BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A0883E-52ED-4014-81B2-6DBA077B3BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A0883E-52ED-4014-81B2-6DBA077B3BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5F57F2-8B21-4FCD-A9D2-6739DAC1DA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5F57F2-8B21-4FCD-A9D2-6739DAC1DA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5F57F2-8B21-4FCD-A9D2-6739DAC1DA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5F57F2-8B21-4FCD-A9D2-6739DAC1DA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13BE73DB-FA85-400F-8257-DA95C88C96E8}
+	EndGlobalSection
+EndGlobal

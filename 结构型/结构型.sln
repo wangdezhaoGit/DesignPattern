@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "代理模式", "代理模式\代理模式.csproj", "{5C30BD10-CF8C-4EF3-BA31-E303CF7B5B16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "桥接模式", "桥接模式\桥接模式.csproj", "{D65AD2D3-03AF-4ED5-9ABE-3B4FA821F12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "装饰器模式", "装饰器模式\装饰器模式.csproj", "{46524E23-57F9-4142-95E2-930B70556704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配器模式", "适配器模式\适配器模式.csproj", "{F0E9DE63-AB26-4329-9B05-B809A7907972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "门面模式", "门面模式\门面模式.csproj", "{E0C7FC11-4DAE-444E-9C4B-2BFF20E6AECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "组合模式", "组合模式\组合模式.csproj", "{162671A2-0CE2-4E46-94CD-6E2F48DE1012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "享元模式", "享元模式\享元模式.csproj", "{EF3465CE-C3EF-48AD-8D2B-E373807F4CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C30BD10-CF8C-4EF3-BA31-E303CF7B5B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C30BD10-CF8C-4EF3-BA31-E303CF7B5B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C30BD10-CF8C-4EF3-BA31-E303CF7B5B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C30BD10-CF8C-4EF3-BA31-E303CF7B5B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65AD2D3-03AF-4ED5-9ABE-3B4FA821F12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65AD2D3-03AF-4ED5-9ABE-3B4FA821F12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65AD2D3-03AF-4ED5-9ABE-3B4FA821F12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65AD2D3-03AF-4ED5-9ABE-3B4FA821F12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46524E23-57F9-4142-95E2-930B70556704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46524E23-57F9-4142-95E2-930B70556704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46524E23-57F9-4142-95E2-930B70556704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46524E23-57F9-4142-95E2-930B70556704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E9DE63-AB26-4329-9B05-B809A7907972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E9DE63-AB26-4329-9B05-B809A7907972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E9DE63-AB26-4329-9B05-B809A7907972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E9DE63-AB26-4329-9B05-B809A7907972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C7FC11-4DAE-444E-9C4B-2BFF20E6AECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C7FC11-4DAE-444E-9C4B-2BFF20E6AECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C7FC11-4DAE-444E-9C4B-2BFF20E6AECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C7FC11-4DAE-444E-9C4B-2BFF20E6AECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162671A2-0CE2-4E46-94CD-6E2F48DE1012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162671A2-0CE2-4E46-94CD-6E2F48DE1012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162671A2-0CE2-4E46-94CD-6E2F48DE1012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162671A2-0CE2-4E46-94CD-6E2F48DE1012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3465CE-C3EF-48AD-8D2B-E373807F4CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3465CE-C3EF-48AD-8D2B-E373807F4CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3465CE-C3EF-48AD-8D2B-E373807F4CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3465CE-C3EF-48AD-8D2B-E373807F4CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FCF94C-3AA3-4476-A3C7-3BCF98A8F100}
+	EndGlobalSection
+EndGlobal
