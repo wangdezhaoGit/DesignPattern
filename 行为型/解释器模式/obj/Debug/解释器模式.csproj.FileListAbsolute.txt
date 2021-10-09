@@ -1,0 +1,6 @@
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\行为型\解释器模式\bin\Debug\解释器模式.exe.config
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\行为型\解释器模式\bin\Debug\解释器模式.exe
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\行为型\解释器模式\bin\Debug\解释器模式.pdb
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\行为型\解释器模式\obj\Debug\解释器模式.csproj.CoreCompileInputs.cache
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\行为型\解释器模式\obj\Debug\解释器模式.exe
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\行为型\解释器模式\obj\Debug\解释器模式.pdb

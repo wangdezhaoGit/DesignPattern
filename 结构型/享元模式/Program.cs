@@ -27,6 +27,7 @@ namespace 享元模式
             public int X { get; set; }
             public int Y { get; set; }
 
+
             public Coordinates()
             {
 

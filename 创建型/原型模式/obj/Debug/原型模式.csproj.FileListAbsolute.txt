@@ -1,0 +1,7 @@
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\创建型\原型模式\bin\Debug\原型模式.exe.config
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\创建型\原型模式\bin\Debug\原型模式.exe
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\创建型\原型模式\bin\Debug\原型模式.pdb
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\创建型\原型模式\obj\Debug\原型模式.csprojAssemblyReference.cache
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\创建型\原型模式\obj\Debug\原型模式.csproj.CoreCompileInputs.cache
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\创建型\原型模式\obj\Debug\原型模式.exe
+D:\dezhaowang\TestCode\net\设计模式2\DesignPattern\创建型\原型模式\obj\Debug\原型模式.pdb

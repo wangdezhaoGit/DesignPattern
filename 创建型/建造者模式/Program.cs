@@ -25,6 +25,7 @@ namespace 建造者模式
          *   
          *
          * Builder模式可以将一个类的构建和表示进行分离
+         * https://www.cnblogs.com/guyun/p/6183795.html
          */
         static void Main(string[] args)
         {

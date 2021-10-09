@@ -8,6 +8,7 @@ namespace 模板模式
 {
     class Program
     {
+        // 模板模式和策略模式的区别 https://www.jianshu.com/p/ef6c822e1c35
         /// <summary>
         /// 抽象类：Account
         /// </summary>
